@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 export function getWeather(city=""){
-console.log(city);
+//console.log(city);
 
 const API_KEY = process.env.REACT_APP_API_KEY;
 
