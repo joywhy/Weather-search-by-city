@@ -14,14 +14,14 @@ function search(city){
    }
   //왜 처음 클릭 햇을때 빈문자 그다음 서울이 나올까 
 }
-useEffect(()=>{
-  console.log("작동"); //처음에 왜 작동이 두번이 뜨나   <React.StrictMode>
-  getWeather(condition) //모든 함수에 then 가능? 
-  .then((result)=>{ //
-    setWeather(result);
+useEffect(()=>{//
+  // console.log("작동"); //처음에 왜 작동이 두번이 뜨나   <React.StrictMode>
+  getWeather(condition) //
+  .then((result)=>{ // 
+    setWeather(result); 
 
   });
-},[condition]);
+},[condition]);//의존성 배열
 
   return (
     <div className="App">
