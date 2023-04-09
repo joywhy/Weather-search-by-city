@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-search-by-city/static/css/main.2e276113.css",
+    "main.js": "/Weather-search-by-city/static/js/main.637031d5.js",
+    "static/js/787.5d1d66c1.chunk.js": "/Weather-search-by-city/static/js/787.5d1d66c1.chunk.js",
+    "index.html": "/Weather-search-by-city/index.html",
+    "main.2e276113.css.map": "/Weather-search-by-city/static/css/main.2e276113.css.map",
+    "main.637031d5.js.map": "/Weather-search-by-city/static/js/main.637031d5.js.map",
+    "787.5d1d66c1.chunk.js.map": "/Weather-search-by-city/static/js/787.5d1d66c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e276113.css",
+    "static/js/main.637031d5.js"
+  ]
+}
