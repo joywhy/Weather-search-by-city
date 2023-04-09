@@ -5,7 +5,7 @@ import Search from "./Search";
 import Showapi from "./Showapi";
 
 function App() {
-const [condition,setcondition]=useState("");
+const [condition,setcondition]=useState("seoul");
 const [weather,setWeather] =useState([]);//왜배열이 들어왔지
 function search(city){
  

@@ -11,7 +11,6 @@ if(list.length===0){
     return <div> 온도를 받아올 수 없습니다.</div>
 }else{
     return(
-    
         <div className="showapi">
            <h1>검색한 도시의 날씨정보</h1>
            <div>도시:{list.name}</div>
